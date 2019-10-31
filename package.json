@@ -1,0 +1,24 @@
+{
+  "name": "1.0",
+  "version": "1.0.0",
+  "description": "curso nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpreuschoff/Node.git"
+  },
+  "author": "Mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpreuschoff/Node/issues"
+  },
+  "homepage": "https://github.com/mpreuschoff/Node#readme",
+  "dependencies": {
+    "g": "^2.0.1",
+    "nodemon": "^1.19.4"
+  }
+}
